@@ -1,4 +1,4 @@
-# Request Header Parser Microservice
+# 🧠 Request Header Parser Microservice
 
 The **Request Header Parser Microservice** is an API that returns information about the user's device and connection by parsing the request headers. When a user accesses the `/api/whoami` endpoint, the server responds with details like IP address, language preferences, and software information.
 
